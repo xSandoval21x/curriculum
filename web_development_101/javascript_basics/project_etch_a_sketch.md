@@ -43,6 +43,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+* [xSandoval21x's Solution](https://github.com/xSandoval21x/etch-a-sketch) - [View in Browser](https://xsandoval21x.github.io/etch-a-sketch/)
 * [RainDropsz Solution](https://github.com/RainDropsz/RainDropsz.github.io/tree/master/etch) - [View in Browser](https://RainDropsz.github.io/etch/)
 * [NotNullDev's Solution](https://github.com/NotNullDev/Etch-a-Sketch) - [View in Browser](https://notnulldev.github.io/Etch-a-Sketch/)
 * [jdonahue135's Solution](https://github.com/jdonahue135/Etch-a-Sketch) - [View in Browser](https://jdonahue135.github.io/Etch-a-Sketch/)
